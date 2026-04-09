@@ -27,8 +27,8 @@ SQL Database
 Screenshots 📷
 Home Page
 ## Project Screenshot
+<img width="1920" height="1080" alt="Screenshot 2026-04-01 224404" src="https://github.com/user-attachments/assets/c7624383-f07b-488d-8815-c69c4485f05f" />
 
-![College Event Portal](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME/blob/main/pic.png)
 FastAPI Backend (Swagger UI)
 <img width="1920" height="1080" alt="Screenshot 2026-04-01 222408" src="https://github.com/user-attachments/assets/fc6d58a0-ac6b-4119-bd61-0ec67c8b0c1c" />
 
