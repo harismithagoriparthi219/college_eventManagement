@@ -26,14 +26,14 @@ Database
 SQL Database
 Screenshots 📷
 Home Page
+## Project Screenshot
 
+![College Event Portal](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME/blob/main/pic.png)
 FastAPI Backend (Swagger UI)
 <img width="1920" height="1080" alt="Screenshot 2026-04-01 222408" src="https://github.com/user-attachments/assets/fc6d58a0-ac6b-4119-bd61-0ec67c8b0c1c" />
 
 When displayed on GitHub it will look like:
 ## Project Screenshot
-
-![College Event Portal](https://github.com/your-username/college-event-management-system/blob/main/homepage.png)
 
 Home Page
 
